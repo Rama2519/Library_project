@@ -121,6 +121,7 @@ input[type=checkbox] {
 }
 #popUp {
   z-index: 0; /* Sit on top */
+  display: none;
   left: 0;
   top: 0;
   width: auto;
