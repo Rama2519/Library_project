@@ -1,5 +1,5 @@
 body{
-  background-color: #6a9fa5;
+  background-color: white;
 }
 h1 {
   display: flex;
@@ -45,7 +45,7 @@ h1 {
   width: 250px;
   padding: 15px;
   margin: 20px;
-  background-color: #fbd082;
+  background-color: gold;
 }
 
 .title {
